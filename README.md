@@ -1,6 +1,10 @@
 # ZELIGHTS
 
-This readme file is for ZElights website which has a basic website and needs to updated. The website has been created in a simple way which may not attract to the customers who are willing to buy things from ZElights. I've noted some problems and solution to change the webiste of ZElights and which may look attractive to the customers when they see the website
+(www.zelights.com/lamp.html)
+
+This readme is about the website of ZElights for updating the webpage. There are few changes to be done in this website that i've listed below.
+
+
 
 
 
