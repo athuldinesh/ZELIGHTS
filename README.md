@@ -7,6 +7,12 @@ This readme is about the website of ZElights for updating the webpage. There are
 - Problems
 - Solutions
 
+# PROBLEMS
+
+- The product shows only the name but doesn't shows the image and description of the products
+- When using the site on mobile devices the page has few options misplace
+- 
+
 
 
 
